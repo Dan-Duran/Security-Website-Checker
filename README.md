@@ -2,6 +2,10 @@
 
 This Python terminal-based utility checks a website's status, response time, Cloudflare protection, security headers, SSL certificate information, and potential vulnerabilities. It provides essential insights for quick website security assessments.
 
+- **👉 Checkout some more awesome tools at [GetCyber](https://getcyber.me/tools)**
+- **👉 Subscribe to my YouTube Channel [GetCyber - YouTube](https://youtube.com/getCyber)**
+- **👉 Discord Server [GetCyber - Discord](https://discord.gg/YUf3VpDeNH)**
+
 ## Features
 
 - Website status and response time
